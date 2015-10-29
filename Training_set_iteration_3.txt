@@ -1,0 +1,495 @@
+tweet_text,url,category
+'@A_L_S_O Awesome! Thanks for your support! See you there.',0,4
+'@ChiCritMass, thanks for the retweet! Check out our Awesome Non-Profits board, we\'ve added a photo of your org!',1,3
+'@NewBalance_CHI is offering 10\% off a purchase with donation to the #HaveAHeart breakfast food drive!',1,2
+'@PazariLLC  pegged right? (sorry couldn\'t resist)',0,5
+'@SaraVK Thanks for supporting us with your donation at @Roozt! We really appreciate it!',0,4
+'@socialgood Please check out our  website for tools on keeping kids safe in cyberspace!',1,3
+'200 people protesting Ala immigr and voter ID laws are on 4th day today in marching from Selma to Montgomery.',1,3
+'4 Foods High In Vitamin D For Healthier Skin',1,3
+'Afterschool programs are a positive way to expand the American dream #ExpandingMinds in #afterschool2013',0,3
+'An update from Dave with less than three days left for our independent internship campaign',1,3
+'BBB serving Chicago and Northern Illinois welcomes Olympia Moving &amp; Storage, Inc. as our newest BBB Accredited...',1,2
+'Black-eyed Susans at North Pond',1,3
+'Check out Marlene Gonzalez, President LCG Group, blog!',1,3
+'Chicago launches LGBT health action plan – LGBTQ Nation',1,3
+'Craig Karahuta just went over the size of AYFs big east region this year! Bigger than ever!',0,4
+'don\'t just know you, know your staff...RT @kenblanchard: What motivates you at work? Here are six possibilities',1,3
+'Going to visit new park in the west loop at Adams and Sangamon this afternoon',0,2
+'Happy Leap Day! Will you use the extra day to increase your yearly mileage? #runnerds',0,1
+'Hopefest is SOLD OUT! See you at the Park West in an hour - Los Lobos, and Rollover w/ Buddy Guy, Eddie Shaw &amp; Todd Park Mohr',0,2
+'How did everyone feel about last night\'s seminar series? We would love to hear your thoughts!',0,1
+'July is Elder Abuse Awareness in IL. Elder abuse can affect people of all ethnic backgrounds/social status. Learn more',1,3
+'JVS Chicago Launches Career Program for Recent College Students  #Education',1,3
+'Learning to Lead -- Promoted to supervisor role? Learn how to transform your employees into a high-performing team',1,2
+'Melanie Campbell of @NCBCP: Our youth are our secret weapon. #SOBA12',0,2
+'Nature never goes out of style.  ~Author Unknown',0,5
+'nice post MK.  RT @maria_kim: today\'s post is about what you really learn in business school.   #dollarstodumplings',1,3
+'Pic says it all, Diane Latiker #CNNheroes  via @twitpic',1,4
+'Please join us in congratulating one of our students for being accepted into the Google BOLD internship program! Congratulation Jamese! #edu',0,4
+'RT @ccfest: @ScotReDesigned thanks! Big day for us on Wed. Transatlantic Sessions gig @Millennium_Park starts at 6.30, free entry, hope  ...',0,2
+'RT @CeaseFire_IL: Chicago Tribune blog highlights that a change in mentality on a personal level is needed to combat violence in society ...',0,3
+'RT @EatRight: Happy #RDDay to all the registered #dietitians who make our nation healthier!  #NNM #eatright',0,4
+'RT @GTownCupcake: Mini #LavaFudge cupcakes by @GTownCupcake to support @cureepilepsy #WhiteHouseCorrespondentsGardenBrunch ��',1,2
+'RT @HendrickInfo:  #JeffGordon participated in pinewood derby today w/some Cubs @AMSupdates. @JeffGordonWeb #NASCAR',1,3
+'RT @HopeInstitute: A new information resource for parents of children with developmental disabilities.',1,3
+'RT @jamiewo: Great meeting FRI about #empoweringemployment through the empowerment of #women w/ @chicCPA @YWCAChicago. Excited to talk more…',0,2
+'RT @mzelma: We have such an amazing community in #latism I know one of you will be a lider next year! #loy12',0,4
+'RT @Patty_Mills: #40for40',0,5
+'RT @rweingarten:   Important piece in The New Republic examining the root cause of cheating scandals: ',1,3
+'RT @teacherinphilly: This is what #phillyeducation teachers (and others) do willingly every day:  @DianeRavitch @AFTu…',1,3
+'SAVE THE DATE: Invest for Kids is 11/9/11. #Investable #Ideas #Conference Benefits #Children\'s #Charities in #Chicago',1,2
+'Study: Deep budget pain for human service groups  via @STLtoday',1,3
+'Taking Note: Chicago, the Next Anti-Arizona',1,3
+'Thanks for the RT! @marine_42 RT @BGCA_Clubs: Are u a @MichaelPhelps fan? Win a copy of his new Michael Phelps: Push the Limit @xbox Kin',0,4
+'Thanks so much to Mattersight for dropping off more than 100 baggies of cookies on Friday. We are grateful for your support!',0,4
+'The fiscal cliff deal--a decent start for low-income Americans:',1,3
+'The voting period for @ChaseGiving starts tomorrow! Check out our cover photo  so you can vote for us! :)',1,1
+'thx dan! RT @danedlebeck: @motivatedbycara @chigrrll awesome! more great press...keep it up! only more gr8 PR to come after tomorrow night!',0,4
+'Two days till go time!  &lt;&lt; Show your support for the #WalmartStrikers.',1,3
+'We will be closed this wk due to the CPS teacher\'s strike &amp; will reopen either when school is back in session or 9/17 - whichever comes 1st!',0,2
+'YOU can help keep kids safe from unsafe products. Consider joining KID\'s Action Team today',1,1
+'Not a runner ?? You can still join the cause to help #endhomelessness ask how you can sign up to volunteer !!',0,1
+'I added a video to a @YouTube playlist  Little Brothers promo video for WGN News at 9 pm on 12.24.2012',1,3
+'Photos of Yokota Shihan from the 2009 Autumn Seminar are online:...',1,2
+'RT @ADCtweets: ADC sends its thoughts and prayers to the victims of theshooting. ADC reiterates that there is no room for hate... http: ...',1,3
+'Did you see the latest issue of eFamily? Read Metropolitan\'s monthly #news here:',1,3
+'The May Edition of the E Huddle Newsletter is out!',1,3
+'Gong Xi Fa Cai from all at Jones Lang LaSalle! ',1,5
+'Real life is not a spy movie. The military cannot threaten that there shall be no survivors. #RulesofWar:',1,5
+'The #WalmartStrikers need to know we\'ve got their backs. Show your support today:',1,1
+'Among our priorities: expanding access to high-quality #earlychildhood development programs -',1,3
+'ATTN VETERANS! Don\'t forget to register for the 100,000 Jobs Mission Hiring Event taking place on Thursday, July 12.',1,2
+'@sievegirl Thanks for the #FF love!',0,4
+'Support Team Thresholds or register to walk on Sept. 15 at #NAMIWalks Chicago:',1,1
+'RT @LocalDirt: Holidays putting you on a tight budget? Eat Like a Foodie At Home, Without Breaking Your Budget  vi ...',1,3
+'Did you lose an ID @ our #GCMChefsBBQ? Come to info table @ Stockton! We have it!',0,5
+'We are faxing in our information to the IRS today!!!!',0,4
+'RT @izzetasteagents: ...3 Letters Y-U-M ....IZZE Chicago yumuniverse.com Launch Event tonight!!! -GV',0,2
+'Snaps to Morgan and Saara!!! DATE DOC IS ALMOST CLOSED SIGN UP BY MIDNIGHT!!',0,1
+'RT @CLOCC_Chicago: Congrats to July\'s #WeAreCLOCC monthly winner, @UrbanInitiative! See their winning photo at .',1,4
+'Recent uptick in foreclosures strains court system, @tfeltner tells @DavidLMatthews',1,3
+'Come to Ghouls Night Out... A Drag Show Fundraiser for Care for Real Saturday, October 15 from 9:30 pm to 12:30...',1,2
+'Attucks uses all classrooms, one for homeless kids; nearly 1 in 10 possible CPS closures in 3rd Ward',1,3
+'@iFightHunger Thx for the #FeedbackChallenge tweet!',0,4
+'EXCELLENT JOB! Scouts in Charlotte, NC, collected more than 82 tons of food in their Scouting for Food efforts!',1,4
+'What are you afraid of, and how are you overcoming that fear? #motivations',0,1
+'Bianca: I want my education to put me in a position to better provide for my children and to open doors to new opportunities. #studentstory',0,5
+'RT @GirlScoutsEPenn: In the 1920s, the first sale of commercially baked #GirlScoutCookies took place. #WomensHistoryMonth',0,5
+'Help students get their voices heard! Join our Action Network and fight for financial aid!  #studentstory',1,1
+'RT @NightMinistry: We are very low on travel-size toothpaste and deodorant--full size as well -Call 773-784-9000 if you are interested i ...',0,1
+'Join us for the Halloween Bash on October 29th! Buy your tickets now - ',1,2
+'The Corner Office Blog RSS | BNET - What Happens When Groupthink Trumps Smart Think?',1,3
+'RT @The99Spring: @ChrislHayes had a must-watch segment on #99spring and #directaction on @upwithchris - please RT:',1,3
+'B.A.D pulls out a hard-fought win. WCR 180 - B.A.D. 195. It went down to the wire! We\'re still proud of our All-Stars!!!!',0,4
+'Congrats to Houston area Scouts for setting a new world record!  #BSA #BSA100',1,4
+'Its really gratifying to look across the office and see that we have a full bay of young designers eager to help nonprofits!',0,4
+'RT @KaraBlasquez: It\'s true, @MsGladysKnight will grace #Chicago w/her presence in support of @ChiUrbanLeague this wknd,  ...',1,2
+'Age Of First Menstruation Predicts Cardiovascular Disease Risk',1,3
+'Dear Gang of 8: Yes, the Indefinite Detention of Immigrants is Unconstitutional  via @ACLU #latism #CIR2013',1,3
+'@LawFirmSearchEn: We\'re sorry, but the sale was Monday only.',0,2
+'Honeybees aren\'t the only pollinators in danger of #CCD; the rusty patch bumblebee is disappearing:',1,3
+'@tomhanks you\'re truly a STAR! thanks so much for the $10k. @davidaxelrod ready to #slashthestache?  #cure',1,4
+'Celebrating 20 years of transforming lives. @motivatedbycara Celebration of Hope Sept.16th @HOBChicago. For more info',1,2
+'Read about how the Y and Michelle Obama are partnering to reduce childhood obesity',1,3
+'Two months in Paris? Oh, yeah. The Georgia Fee Artist/Writer Residency is now accepting applications. Deadline...',1,2
+'At 9:15:40 am, Osvaldo Caballero (41470), 10K, Elapsed Time: 01:04:12, Pace: 10:20, Est. Finish 12:42pm (UNOFFICIAL)',0,5
+'Want to learn more about our neighborhood? Check out:',1,2
+'Rain gardens are an important way to manage stormwater runoff, improve water quality and enhance the value of...',1,3
+'Lonnie Brooks performing! #HW25',1,2
+'Perceive the true form of heaven & earth & you will be enlightened on your own true form-M.Ueshiba,#Aikido',1,5
+'GFN President Jeff Klein talks to USDA Radio News about the role of food banks in improving food security',1,3
+'Making plans for tonight? Join us @undergroundchi for our Flirting for Disaster event 7-10! More info at',1,2
+'Ever seen one of these in person? You can if you come to our Gala on September 7th! Thanks to The John and Lisa...',1,2
+'RT @lionsclubsorg: [New video] We just uploaded LQ: Lions Quarterly January 2012. Let us know what you think!',1,3
+'Lighthouse Trivia…Did you know that in 1955 we opened our doors at 1850 W. Roosevelt, the same location that our main facility stands today?',0,3
+'Watch the #BostonMarathon live from 8:30 to 11:30 a.m. Watch on Universal Sports Network or streaming live on .',1,3
+'its not too late to join us on the prayer line! 712-432-0800 751973#',0,2
+'02/14 5:30pm-7:00 p.m 17 N. State, networking session with park advisory councils Dr. Dan Hibbler, Chief Program Officer CPD will speak',0,2
+'Today\'s the day---eat for change at Chipotle! 50\% of proceeds benefit Green City Market!',1,2
+'Boy Scouts of America introduces the Search and Rescue Merit Badge! Details:  Photo:',1,3
+'RT @PCATennessee: Failure to invest in children is the biggest threat to our national security #PCAAJax',0,3
+'Hear what the dueling critics have to say about Steppenwolf\'s Head of Passes--featuring not one, not two, but...',1,3
+'RT @Ntl_Homeless: Youth Membership Matters at NCH b/c homelessness won’t end until every generation is involved!',1,3
+'Join us tonight for Soul of Money with bestselling author Lynn Twist and begin to think financially free.',0,2
+'Report: 1/3 of Illinoisans In or Near Poverty  via @WSIURadio, @IMPACTHeartland',1,3
+'#Walmart is learning the hard way that good service and good wages go hand in hand.  #1u #p2 @changewalmart',1,3
+'Roller Derby Bout with @chicagooutfit Saturday at 7pm, proceeds benefit Heartland Alliance, buy tickets now! Join us!',1,2
+'2012 Travel Bout Results - WCR Second Wind 171, NRG Warning Belles 79:  #rollerderby',1,3
+'MT @hungernomore: 10 Things You Need To Know About Hunger In 2013:',1,3
+'Most read on @ABAJournal: Lawyers Spot Justin Bieber on Flight, But Didn’t Recognize Justice Stevens',1,3
+'Thx! RT @rachelsimon #FF @lucyglashover @lrwunsch @Daroff @JCFSChicago @JFSSD @davefeinman @CrytzerFry @CLOISH @Tonyanator @Futurewriter13',0,4
+'Rally outside #CPS tomorrow AM as the board of ed decides the fate of 53 schools set to be closed: 125 S. Clark. No #CPSclosings!',0,2
+'We\'d love to see the analysis MT: Nothing more fun than spending Wed analyzing rhetoric of Slow Food mvm\'t @Tweet__Caroline',0,3
+'RT @ChicagoNShore: Teach Kids to EAT & COOK HEALTHY! Kids, Teen Summer Camp Classes, Viking Cooking School. Cooking is ART! Glenview htt ...',0,2
+'Seguin for 2nd overall! #superweek 3s!',1,2
+'NP- Sterotypes by Bigg Kenn feat Alpha Malik log on to  or download the iheartradio app on your phone!! !',1,2
+'looking forward to @ImermanAngels and @ChicagoNP for a photo shoot this afternoon',0,2
+'@codocmanifesto @SidMohn TONIGHT March 31st',0,2
+'Texas A&amp;M University Student Body President John Claybrook vetos bill to defund #LGBT center:  #HigherEd',1,3
+'Happening this weekend If you got the talent and the heart we got the space 773-881-8120. Must…',1,2
+'Join us for speakOUT - The State of Civil Union, Thursday at 6:30pm. Sponsored by the Chicago Public Library.',1,2
+'RT @GreatNonprofits: Want to find ways to give back this #GivingTuesday? Find great local nonprofits by zip code! #GiveBack  ...',1,2
+'Mujeres de HACE - Chicago &amp; Houston, - Sembrando el Futuro - Upcoming 30th Anniversary Benefit, Job Opportunities!!',1,2
+'Women should ask for support in their careers rather than manage conflicting work and home demands alone -@ChicCPA',1,3
+'***Media Alert*** #SafeandHealthySummer June15th at 8am',1,3
+'...Up and heading to WEFT to continue the discussion we began yesterday at ...And The Women Gathered...on gun violence in Champaign.Tune in to Higher Ground at 8...and have good weekends!',1,2
+'Check out Chicago Tribune\'s celebrity calendar and make sure you save the date for Lynn Sage Cancer Research Foundation\'s Fall Benefit featuring Diane Keaton! Purchase your tickets today here: !',1,2
+'Check out KID\'s new blog post on the latest chapter in the Nap Nanny recall story.',0,3
+'Great read.',0,3
+'In addition to blueberries, there are some other tasty items you can order online. Check out these BlueberryGoGo™ Products...another yummy way to support at risk youth!',0,2
+'June is Post-traumatic Stress Disorder Awareness Month - up to 50\% of people with PTSD do not seek treatment. It\'s time to change your beliefs about PTSD and learn ways that you can help. Visit  to learn how you can make a difference!',1,1
+'New St. Vincent de Paul Youth Group for High school students forming at Queen of Angels. Emphasis on Friendship, Service to those in need & growth in Spirituality.  Watch the video to get an idea of what it\'s all about.',0,2
+'Sign up for summer Lango soon!!',0,2
+'Thank you, Carol Marin, for the compassion shown in your column today.  We are proud you are part of the Misericordia family.  (Note: you may need to register to read the piece; it\'s free and takes 10 seconds.)',1,3
+'The CSB stars are resting up this weekend before the Pride festivities kick off...but, we are very excited that of our very own, JD, is competing in Windy City Gay Idol this weekend! You will find us at Sidetracks this Saturday afternoon cheering him on!!! Good luck #15! We are proud of you!',0,4
+'The Nap Nanny has been officially recalled today after 5 deaths were reported. If you or anyone you know is using the Nap Nanny to care for their children, please inform them of its dangers and this recall.',0,3
+'The Peace Corner has a free App! Download it for great resources for youth and career development!',0,2
+'The Peace Corner has a free App! Download it for great resources for youth and career development!',0,2
+'Vovie vow vow!',0,3
+'We assisted over 15 LGBT seniors today with the help the West Cook Pro Bono Network!',0,2
+'Weekend enjoyment for anyone who\'s been to the north country...',0,3
+'With summer approaching and warm weather finally here, I\'m thrilled to see more people walking and riding bikes on my daily commute to work.We can no doubt expect the number of cyclists to continue to climb given the success of Chicago\'s bike week …',0,3
+yum.,0,3
+'Chi Cup 2013 started a little wet today but still good times!',0,3
+'Chi Cup 2013 started a little wet today but still good times!',0,3
+'Choose thoughts filled with kindness for you, others and the world. All Things Positivity',0,1
+'Congratulations graduates! Some of graduates had early graduation party at CAAALEII tonight!',0,4
+'G O O D M O R N I N G!',0,5
+'How Foreclosure Has Devastated Latino Chicago (And What We\'re Doing to Help)More on how the crisis impacts Latinos:',1,3
+'Metropolitan wishes all dads a Happy Father\'s Day weekend! Like/share to show your love for dad!',0,1
+'Milwaukee vs Cinci at Chi Cup',0,3
+'NLEI\'s Annual Dinner and Silent Auction, 41st Edition, will be held on Wednesday June 19th at the elegant Hilton Chicago on Michigan Avenue. The Marimba Ensemble from Holy Cross/Immaculate Heart of Mary Church, the pride of Back of the Yards, will perform during the dinner. For information, call NLEI: 773-247-0707.',0,2
+'No se les olvide que mañana tenemos dos eventos aqui en la Casa Michoacan. Habra comida, musica, platica, y bailes durante los dos eventos. 1. Panel titulado: Mujer, Migracion, y Cultura, una conversacion sobre los nuevos roles y desafios entre las mujeres migrantes han tomado. 2. Taller y mesa redonda sobre Migracion (Accion Diferida) y los jovenes.',0,5
+'Now Miami Surf vs Cowtown Crazees. Tough game',0,3
+'Thank you Mariuxi Benitez for going extra miles, literally & figuratively, to get those college sweaters for graduates!',0,4
+'The Chicago Sun-Times reports about 850 teachers and staffers at schools doomed to either close this month or to reboot their staffs were handed pink slips Friday afternoon, according to Chicago Public Schools.  At the 48 closing schools, 420 teachers of 1,005 total lost their jobs, plus 110 paraprofessionals and 133 bus aides and part-timers. At the five schools headed for “turnaround,�? where the children remain in the building but all the adults are replaced, 192 staffers were laid off: 125 teachers, 20 paraprofessionals, 20 bus aides and part-timers and 27 clerks, custodians and security staffers.This is just one reason everyone should support the programs at Ada McKinley Community Services.   Please tell your friends and family about Ada McKinley and ask them to like our Facebook pages and join us on LinkedIn and help support us financially.',0,1
+'TRULY SACRED!It\'s been about an 12+ hours...AND I\'M STILL TRYING TO PROCESS ALL that was shared at today\'s ...And The Women Gathered... at the Douglass Library. WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW...Breaking the cycle/pipeline to prison (or the graveyard) BEGINS WITH EACH OF US SHOWING UP FOR EACH OTHER--- FA\' REAL!Thank you all for every prayer offered up on behalf of the gathering and for those who attended. May blessings, healing and prosperity be yours until next we gather,---Nicole',0,4
+'We are so excited!  ABC Chicago channel 7 will be playing our War Dogs interview with disability reporter Karen Meyers. Tune in tomorrow, Father\'s Day between 8-8:30 am to check it out.  You can also go to abc7chicago.com.  We\'ll be posting pictures here all day today!!',0,2
+'We hope that by addressing inequality in education, housing, civic engagement and legal status, the Forum can be part of the solution to keep more Latino fathers out of the prison system and at home with their children.  Happy Father\'s Day!',1,3
+'Whats Your Color #ShoeCrush',0,1
+'With so many negative stories about our youth in the news, we celebrated the positive and productive work being done by our young scholars.',0,3
+'Congratulations to all the dancers who performed spectacularly in the concert and the benefit!Thank you to all the students, parents, teachers, accompanists, board members, Steve Carmichael and his team, Alison Kerekes, Jennifer Tapp, Lander Ellis, Maxine Lapin, The Robert Joffrey and George Arpino Foundation, and all the volunteers for creating beautiful performances and a wonderful benefit!',0,4
+'Due to weather conditions, the ESLL  picnic will be postponed. Stay tuned for a future rescheduled date. Thank You.',0,2
+'Have you asked your friends to like KRCC on Facebook? If you didn\'t, now is the time. Please invite or poke your friends to become KRCC facebook friends.',0,1
+'Have you signed up for summer ballet at CBA?',0,2
+'Join me in Prayer EVERY NIGHT at 9pm until June 14th, via conference call Dial 218-339-2626 code 966408!',0,2
+'Lots of choices to be outside your home today: Madigan rally at noon; Windy City Gay Idol semi-finals at Sidetrack (doors open at 2, show at 3); Gay and Lesbian Medical Assn benefit tonight at Lurie Children\'s; and any number of events going on this weekend. Tomorrow is the protest against the Cardinal ... Our joint calendar for Pride with GoPride is here: ',1,2
+'Many times we tend to keep people in our circles for what would perceive itself to be friendships, romance, resources, blood ties, etc........ Consider this, God can place people in your lives, or vice-versa, for seasons of purpose. When that purpose is fulfill, let them complete their God given assignments and let them go. Sometimes its for the good and other times its for the bad.....But all things work together for good of them that love God and are called according to his purpose. Stop holding on to people, when you should, LET THEM GO!!!  If its meant to be, it will be!!',0,1
+'Marillac gave away clothes today in honor of Father\'s Day. Members of our center were able to choose from a wide variety of brand-new items. Thanks!',0,2
+'More on the Nap Nanny recall from USA Today with quotes from KID. Bottom line?  Don\'t use it! ',1,3
+'New Beginnings members putting the final touches for tomorrow\'s event! #SafeandHealthySummer ',1,2
+'Rip-gays believe it or not: John Corvino, NOM\'s Maggie Gallagher debate marriage equality July 23 at the gay bar Roscoe\'s in Chicago',1,2
+'Welp. We are gonna play it safe and cancel today\'s racing due to the forecast. RACING IS SET FOR SUNDAY, JUNE 16. Same time. Same place.',0,2
+'Behind The Brand: Starcom MediaVest Group CEO Laura Desmond On The Evolution Of Cannes Ad Fest #TCNMember  via @forbes',1,2
+'Amnesty Summer Concert 2013 | Amnesty International USA',1,2
+'Happy Friday! The weekends are made for volunteering (and sleeping). Do you have any fun volunteers plan? Maybe @ChicagoCares serve-a-thon?',0,1
+'Eye opener ---> At The Movies, The Women Are Gone :',1,3
+'Curious about the results of the LPCS Get Healthy Challenge? Read about our success here!',0,3
+'ON THE SIX MONTH ANNIVERSARY OF THE NEWTOWN SHOOTINGS, join us to reflect and examine the impacts of gun violence on women in our communities and consider our role in gun violence prevention efforts.See you soon at Douglass Library in Champaign, Illinois at 3:00 pm TODAY!---NicoleHere are some directions for those who might need them:Here are the directions to Douglass Library for those who need it:',1,2
+'“I had never heard a man talk about rape, and I just felt I was completely alone. But once I spoke up, I finally felt understood, and I also learned that I am not as alone as I thought I was.- Gabe Wright',0,3
+'The Sheriff of Cook County is now providing the status of civil process on their website. Though proof of service will appear on the docket on the clerk’s website, it does not provide a service date. This is a wonderful new service as attorneys will no longer need to call the Civil Process desk, or go in to the Daley Center, to get a service date. The service lookup can either be found as a link on the Cook County Sheriff’s general website, or directly here:',1,3
+'On today\'s blogs: what you should do if you\'ve had an accident and have fallen to the ground.',0,3
+'A big shout out to 3Arts awardee Harold Mendez and all of the other terrific artists selected for the CTA’s public art project!',0,4
+'After almost 6 months of fighting it, the Judge dubiously orders that last tenants out of the Chateau. While this isn\'t what we wanted, at least the Law Center was able to give our clients the time necessary to find new housing and avoid living on the streets.',0,4
+'Why a rainbow flag has become one of the primary symbols of Occupy Gezi in Instanbul, Turkey',1,3
+'Feeling a little worse for the ware? Trying to stay mentally acute? Here are some tips how.',1,3
+'World Sport Chicago’s annual Family Sports Festival takes place this Saturday, June 15, 11:00 a.m. – 5:00 p.m. at Seward Park, 375 W Elm St. Family Sports Festival provides a free day of fun and fitness for Chicago children and adults alike. This community event provides people with an opportunity to experience a wide range of different sports through interactive stations featuring more than 25 sports and activities. World Sport Chicago is also proud to partner with Catholic Charities of the Archdiocese of Chicago on the kick-off of their 2013 Summer Food Program – providing all participants 18 and younger with a free, nutritious, lunch. Additionally, the Catholic Charities health and wellness corner will feature free health screenings, nutrition tips and cooking demonstrations. Special guest Kerri Strug, 1996 Olympic gold medal-winning gymnast, will be attending from 12:00 – 2:00 p.m. and all of Chicago’s professional sport teams are participating in the event. Strug will also be available to media from 6:00 a.m. – 12:00 p.m. on Saturday.Find more info by visiting:',1,2
+'Thanks for sharing with us Carrie!',0,4
+'We\'re proud of Charles Jenkins, a leader and father who has worked tirelessly with CCH for more than a decade for families like his.',0,4
+'Teacher Licensure changes in Illinois July 1. Read on',0,2
+'Congrats to this year\'s 2013 Partner of the Year Award, Heartland Alliance Policy & Advocacy!',0,4
+'Let your Girl Scout pride shine, and get your geek on at the grand opening of Microsoft\'s new retail store at Woodfield Mall in Schaumburg!Microsoft chose our council as one of the community partners to benefit from their high-energy grand opening! In addition to providing attendees with discounts and freebies, Microsoft will generously support our council with technological gifts.The ribbon cutting and grand opening begin at 10:30 a.m., and later that evening there will be a special performance by weezer! Microsoft has gifted us 75 tickets, which may be claimed first-come, first-served. In order to receive the weezer tickets, attendees must be present at the ribbon cutting. Let us know you\'re coming by RSVP-ing here:',1,2
+'Only a few days left until Able\'s Sky is the Limit fundraiser! Have you bought your tickets yet?You\'ll want to be there to try Epic\'s delicious, chef specialty appetizers including fried chicken satay and fresh shrimp ceviche!And for dessert... Stay tuned to find out in our next post!',0,2
+'Utterly incomprehensible how Tom Cruise could come to the conclusion that Walmart has been good for women. #WMTFAIL',0,3
+'This is going to be a fantastic event! For all of you who appreciate the delicious food and drink created by Chef Randy Zweiban and his wonderful staff at Province, I invite you to join us for a very intimate cocktail reception with proceeds to benefit Care for Real.',1,2
+'H.O.M.E. is doing it\'s part in National Hunger Awareness Month. Many seniors in Chicago lack access to healthful food due to living in a food desert. In order to ameliorate the problem, H.O.M.E. employs its shopping bus, taking seniors stranded in food deserts to supermarkets and grocery stores, giving them access to healthier foods. Check out the services we offer here: urlm.in/rprq',0,2
+'Good for you Sebastien!',0,4
+'National Movement Weekly Update. June 13, 2013. KidTips. Success Stories. And more.',1,3
+'Happy Flag Day',0,5
+'Hooray! We made $1.7 million for our 2013 Candy Days, making it our best year ever! Thanks to everyone who volunteered, donated and prayed for beautiful weather.',0,4
+#ShoeCrush,0,5
+'An especially happy Friday at The Cara Program! Since July of last year, we\'ve reached our goal and placed 270 motivated students into quality, permanent jobs! Congratulations to each student who started their career and props to our hard working program staff that walked alongside them to make it happen. Thank you community, we all share in this achievement together!',0,4
+'We\'ve started to fill the barrel...',1,1
+Agree?,0,1
+'We are excitedly getting ready for our event (and our Able-tini)!',0,2
+'PAWS Chicago would like to introduce you to several of the beautiful Pit Bull mixes currently available for adoption at the Adoption Center. Many of these dogs had extended stays at Chicago’s city pound and were transferred to PAWS Chicago where they could have a second chance at life. Each of these dogs have passed PAWS Chicago’s temperament and behavior testing and will make wonderful pets for many families. These dogs are a part of PAWS Chicago’s Pit Pals program which aims to share knowledge about the often misunderstood Pit Bull and works to adopt ambassadors of the breed to loving homes. Through this program, PAWS Chicago works with potential adopters so that they are armed with the knowledge and understanding which will lead to a lifetime of companionship and love with their new furry friend.Click through the photos to meet some of the dogs available for adoption! You may also meet these sweethearts by visiting PAWS Chicago’s Adoption Center located at 1997 N. Clybourn Ave. For more information about the Pit Pals program, please visit',1,2
+'Today, JP Morgan Chase sent 30 college interns to complete a community service project here at TRP. Projects included painting over graffiti, collecting trash around the block, planting new flowers and bushes, tidying the back play lot, and diligently cleaning all the windows at the La Casa Resource Center. It was a great day for working outside and beautifying TRP!',0,2
+'Tag - you are it! :) All Things Positivity',0,1
+'Happy Flag Day, everyone! It\'s beautiful in Norwood Park so come on out and find some deals!',0,1
+'ESL students say farewell to teacher, Renee Brown. You will be greatly missed Renee. Thank you for all your great contributions to IAC!',0,4
+'Students show their appreciation to ESL teacher, Renee, on her last day at IAC by providing a buffet of food for the class.',0,4
+'Check the blog for some high lights from last night!',1,3
+'To all the father\'s out there HAPPY FATHER\'S DAY from Erie Neighborhood House!',0,5
+'We\'re wishing Marji Leslie and our DBSA-GC President Judy Sturm safe travels as they attend the National DBSA Conference in Miami this weekend!',0,2
+'Looking for something to do tomorrow? Join Albany Park Cease Fire at Our Lady of Mercy (4430 N. Kedzie) for free food, carnival games, face painting & music. See you there rain or shine! 5pm-9pmCelebrate peace in our community with fun for the whole family!',0,2
+'It\'s the Community Empowerment Hour, #AskPastorCorey! Tune in to @Inspiration1390 right now!!! Listen live on @iHeartRadio',0,2
+'#AskPastorCorey on air today on @Inspiration1390. Remember we gang up on the problem and not each other. Tune in at 2!',0,2
+'Thank you to all who helped us celebrate our 32nd Anniversary today! A very special thanks to Women Employed\'s Anne Ladky for an amazing Keynote Address. Have a great weekend and be on the lookout for photos from today\'s event within the next week or so.',0,4
+'We are launching a brand new program in partnership with the Lake Forest Sailing! Very exciting, servicing Northern Illinois and Southern Wisconsin. Please join us at the Open House on Saturday, June 15th from 1pm - 3pm at 501 N. Lake Road in Lake Forest and learn more about this new program!',0,2
+'Thanks to everyone who joined us for the Auxiliary Board Spring Event last night at Plymouth - we had a great time and some perfect weather too! The event raised over $1000 to support LYDIA!',0,4
+'30 minutes until #AskPastorCorey on air on @Inspiration1390. Tune in live at 2 on  or on @iHeartRadio',1,2
+'Thanks to Chipotle on 95th for donating burritos at out TRU Ambassador\'s Carnival event today at Sherwood elementary!',0,4
+'Are you ready for #AskPastorCorey?! Listen live on  We\'re live in 5 minutes!',1,2
+'Don\'t forget to get your tickets for the Wine Tasting next Friday!!',0,2
+'Just a few hours left to join us for our private tour of FEW Spirits Distillery in Evanston (918 Chicago Ave), tomorrow at noon. The $20 donation made during registration goes straight to The Network so please consider joining us for this unique experience (complete with tasting samples!)',0,2
+'If Duncan can succeed, he would deliver Obama a legacy-building victory that they believe could narrow the academic gap between poor and privileged children — a disparity that has budged little since it was first identified in 1966.',0,3
+'Celebrating the Army\'s birthday as well as Flag Day!',0,3
+'We are so proud of our ED, Lisa Colpoys, for winning the Esther Rothstein award! Thanks to all at the Lawyers Trust Fund of Illinois for hosting a great event (despite the derecho) on Wednesday!',0,4
+'Every One Has A Role In Ending Domestic Violence!',0,3
+'With 100 class sessions at Inspiration Kitchens come hundreds of success stories. Here\'s one from many years ago we felt like sharing again!',1,3
+'AAPI Leaders Forum this Saturday, be on the waitlist.',0,2
+'See you tomorrow!',0,2
+'So you don\'t want to engage in cosplay but you want to attend CALIcon 2013. Good news! You can watch sessions live on YouTube.',0,3
+'We started celebrating Father’s Day early with our Day with Dad event at the Chicago White Sox game last weekend with our Young Fathers Program! View more on this special event made possible by U.S. Cellular!',1,3
+'Charity4LIFE Picture of the Week - Visit to Haiti to drop off Care Packages at Delmas 48 Orphanage',0,3
+'Bring your big gears! We\'ve got sprinting coming up tomorrow! See everyone at 9am for registration, 10am racing',1,2
+'Last Day of Computer Class Session 4!',0,2
+'Are you interested in doing more for TLP? We are always looking for volunteers to help in any number of ways - tutoring, teaching a class, gardening, cooking, answering the phones, or planning an event are just a few ways you can help. To download the application and sign up for our July 13th orientation visit',1,1
+'Save a life at PAWS Chicago’s 36-hour Spring Adopt-a-Thon! Hundreds of cats, dogs, kittens and puppies in need of warm, loving homes will be available for adoption at this life-saving event which kicks off at 11:00 a.m. on Friday, June 21 and continues through Saturday, June 21 at 11:00 p.m. Join us and give these loving pets a second chance at life! PAWS Chicago’s Adoption Center is located at 1997 N. Clybourn Avenue in Chicago. To see some of the animals who will be featured during the event, please visit . Click through the photos to see more of the adorable pets looking for their forever homes',1,2
+Congrats!,0,3
+:),0,3
+'Thinking about buying your first home? Join the Rogers Park Community Development Corporation and Devon Bank for their First Time Home Buyers Class!',0,2
+'a BIG Thank you to my LVEJO Family for a Kick ass Sabbatical Send Off!!!!',0,3
+'Happy Birthday to America\'s Army - turning 238 years old today!',0,3
+'Social Security issues new policy on gender marker changes',1,3
+'Senator Mark Kirk: Illinois Expects a YES on S.744! Contact Senator Kirk TODAY and Tell Him to Support Immigration Reform Bill S.744! >>',1,1
+'Knowing where each baby starts out could shape a range of intervention and prevention strategies to make sure more babies have a better chance at a happy and healthy life.',0,3
+'Don\'t forget Dad this Sunday. Celebrate him with a gift from Heartland Alliance! www.heartlandalliance.org/gift',0,2
+'HEALTH TIP OF THE WEEK: Get Stronger with Protein-Rich Foods:',1,3
+'Stop breaking families!!!! Immigration reform now!!!!',0,3
+'Get connected! Are you a parent, teacher or caregiver interested in applying Smart Love? This is the discussion board for you.!',0,1
+'Next Friday, June 21, dusk, at Independence. Movies in the Park are baaaack!',0,2
+'Here\'s to family equality. Brent and his staff presented at last year\'s Opening Minds Conference and was well received. Let\'s \'show the love\' for the family equality council and give a thumbs up to Pride month!',0,4
+'Tomorrow in Old Portage Park. Pick up the garage sale map at Faith Church, 5051 W. Belle Plaine. Then mosey over to 6 Corners BBQ Fest for food, drinks & entertainment.',0,2
+'Our most recent Crisis Connections Trend Report reveals some difficult facts about the status of the youth contacting National Runaway Safeline.',0,3
+'To get the most success out of life have no agenda other than to give whatever you can in the present moment. A smile, a laugh, a quarter, a helping hand, an introduction or just your listening ear is more powerful than you can imagine. Beneath every gift is the knowing that the Universe is abundant and that you lose nothing by giving away what you have. Others will feel comfortable in your presence and all good things will find you - WITHOUT seeking them. -Jackson Kiddard',0,3
+'FRIDAY FAVORITES: What is YOUR favorite song that gets YOU pumped up before competitions and practices?!...We like the Harlem Shake....can\'t you tell?! CLICK HERE:',1,2
+'It\'s Monday & #AskPastorCorey is back on @Inspiration1390. Remember we gang up on the problem and not each other. Tune in at 2!',0,3
+'Tomorrow, from 10am to 6pm, is our monthly Money Action Day in the office. We\'ll be helping with current year tax returns, prior-year tax returns, problems with the IRS and financial coaching.',1,2
+'Christopher House students had a great day selling lemonade on city-wide Lemonade Day on Saturday. Did you get to stop by and try some of our delicious lemonade?',0,1
+'Eric Cooper, CEO of San Antonio Food Bank speaks about the Feeding America study, Map the Meal Gap which was released today. His food bank serves Zavala County where nearly 1 in 2 kids struggle with hunger (thanks ConAgra Foods, Inc. for sponsoring child portion of the study)',1,2
+'Media interview children of the Boys & Girls Club of San Antonio Calderon Branch after the release of the Feeding America study, Map the Meal Gap which shows hunger in every U.S. community.',1,3
+'CEO Bob Aiken speaks to press about Map the Meal Gap research study which shows hunger at a local level. The Feeding America study was released today.',1,3
+'Should you check up on your thirteen-year-old’s party plans?',0,3
+'Celebrate Father\'s Day with the 49th ward alderman, Joe Moore,   in the 5th Annual 49TH WARD COMMUNITY BICYCLE RIDE.  The event kicks off Sunday, June 16th, 7:30 a.m., at the 49th Ward Service Office, 7356 N. Greenview (at Jarvis). In Rogers Park, one mile north and one mile east of Indo-American Center.After enjoying a light breakfast snack compliments of 7-Eleven, Joe Moore, Alderman of Chicago\'s 49th Ward will lead an hour-long bicycle tour of the 49th Ward. HAPPY BIKING!',0,2
+'APPLY NOW!',1,3
+'If our American way of life fails the child, it fails us all.  ~Pearl S. Buck',0,1
+'THIS IS WHAT THEATER OUGHT TO BE! (Catapult Magazine) A TRUE MARVEL...THEATRICAL MAGIC...ASTONISHING! (Chicago Sun-Times)...Don\'t miss you chance to see \'I Will Kiss These Walls\'...must close June 30!',1,2
+'We welcome @HillaryClinton to Twitter!',0,5
+'Peace is its own reward. - Mahatma Gandhi',0,1
+'Last chance to win WHERE IT ALL BEGAN, the new CD of Broadway standards from Glee\'s MATTHEW MORRISON. Send an email with MATTHEW in the subject line today for a chance to win this great prize from Windy City Media Group.',0,2
+'Give the Gift that Gives Twice for Father\'s Day!',1,2
+'Summer Camp Spots are filling up! Register TODAY! Don\'t need the whole summer? Weekly Rates are still available!',1,2
+'2020 VISION: Remembering Wilson\'s League of Nations',0,3
+'Thank You to all those who helped make Movies at the Tri-Field a successful event. From Alex Calatayud to the Parent Committee to the guests... THANK YOU. (What movie would you like to be played next?)',0,4
+'TEENS: There\'s still a few spots left in out After School Matters program Tejer y Poder! Learn to knit or crochet, design your own projects, meet cool new peeps and get paid! Sign up today at www.afterschoolmatters.org. Questions? 312-226-7767',0,2
+'For charitable donation queries, contact us in writing, as follows: THE GILLARD INSTITUTE, INC., In care of Charity Giving Division, P.O. Box 805993, Chicago, IL 60680-4121 (USA). We thank you!',0,1
+'Proud to welcome the ISAVE Foundation, Welcome Home Celebration & Warrior Summit back to the Valor Games Midwest:',1,2
+'If you didn\'t already know, Hamburger Mary\'s does bingo nights with proceeds benefiting a different charity each week, and TONIGHT IS OUR NIGHT! Join us for HamBINGO!We\'ll be there: 8PM downstairs in the dining room of Hamburger Mary\'s. With Velicity Metropolis calling the balls, you know this ain\'t your church bingo!',1,2
+'Thank you to everyone who came out and enjoyed the beautiful spring day at PAWS Chicago’s Zoetis Run for Their Lives yesterday! More than 5,000 animal lovers – and 2,500 pups –  supported PAWS Chicago by participating in either the 8K run or 4K walk which raised money for homeless pets.To get a glimpse of the event and learn how PAWS Chicago uses funds raised from events like this to save more lives, please click here to see the ABC 7 Chicago footage:  and be sure to like ABC 7 Chicago on Facebook! You can also see some great event photos from the Chicago Tribune here:  race results, please visit  PAWS Chicago would like to thank Jordan and Brotha Fred\'s Neighborhood, 1035 KISS FM’s morning and afternoon radio hosts, and Alison Victoria, host of “Kitchen Crashers,�? for being their year’s special guests of honor. We would also like to thank the 2013 Run for Their Lives committee as well as our co-chairs, Pat Spratt-Bauer and Robert Kabakoff, for all of their hard work.Thanks also goes out to our wonderful volunteers and the following sponsors who made this life-saving event possible! Title Sponsor – ZoetisPresenting Sponsor – Purina PRO PLANSponsors* The Lisa Foundation* Commonwealth Edison* Unleashed by Petco* Hinsdale Pet Memorial Services* Jones Lang LaSalle*  VCA Animal Hospitals*  Massage Envy* Barefoot Wine & Bubbly * Blum Animal Hospital* Tucker Pup\'s Dog Activity Center* RHK Consulting* Duke Animal Hospital* Live to Support* Dogaholics Lakeview* Promopaw* Chicago Veterinary Emergency & Specialty CenterSpecial Thanks to:* Pepsico brands including: Gatorade, Quaker, Tropicana, Propel, Frito Lay* Midwest Foods * Qdoba Chicago* Cermak Grocers',1,4
+'On this Merit Badge Monday, we look at the Safety merit badge. What is something important you learned while earning this merit badge? Details:',1,3
+'And the hard copies are in! A big thank you to Make It Better and Ben Harper for your continuing support of social justice and LIFT. We are so proud to have you LIFTing with us!',0,4
+'2020 VISION: Violence Against Women MATTER!',0,3
+'PWB / MLB / LLB Schedules have been refreshed. Please look over closely we made a few field changes.',1,3
+'Check out this photo from our 1st Women\'s Wine & Art event over the weekend! Thanks to Sapphic Adventures and artist, Sherri Rush  for bringing this fantastic program for women to Center on Halsted! Check our website for more upcoming programs like this!',0,4
+'St. Vincent\'s welcomes a group of volunteers from the Center for Student Missions this week! Welcome and thank you for your service!',0,4
+'Chicago News Magazine covered our DC event. Reporter Ho Chul Lee went to DC with KRCC. Thank  you reporter Lee and producer Park for producing the great piece.',0,3
+'“Research by [England’s] Child Exploitation and Online Protection Centre has suggested that more than half of those who view child abuse images go on to commit abuse themselves.�? Kudos to Prime Minister Cameron for calling on web companies to crack down on internet child pornography. We applaud the Illinois Internet Crimes Against Children Task Force for addressing this important safety issue locally every day!',0,4
+'NAKASEC is hiring!!!',1,3
+'Room 1 at Marillac went outside on the playground this morning. The kids explored nature, finding some pine cones to examine, as well as interacted with the other classrooms.',0,2
+'Mitzi our mentor from the Philippines That moment when we become inspired and motivated to build our own pfp club at cebu :). They are preparing their upcoming play session on June 12 (Independence Day of the Philippines) at Argao, Cebu with John Guarrine and other PFP mentors and trainers!',0,2
+'Family Sports Festival week is here! Join us this Saturday at Seward Park to get your summer off to an active start! All of Chicago\'s pro sports teams and more than 25 different sport activities will be available for you to try!',1,2
+'A tribute to every person unique gift...',0,3
+'Check out our website, www.streetwise.org where you can read last week\'s issue featuring the Blackhawks! GO BLACKHAWKS! =)',1,3
+'Gender in/equality takes many forms, and one step in balancing the power inequity in our society is to pass the Paycheck Fairness Act.  Watch this video and then TAKE ACTION!',0,1
+'2 Intern Offers Announced: One 13-week and one 7-week positions. Help us raise an additional $1200 to extend our 7-week to a full 13.',1,1
+'Purchase your tickets today for the TLP Auxiliary Board\'s 5th annual TLP on Tap fundraising event on Thursday, June 27th, 6-8pm at Benchmark! Visit www.events.org/TLPonTap. Tickets are $45 and include 2 hours of drinks, food, and fun. All proceeds benefit TLP and Chicago\'s youth who are homeless.',0,2
+'It\'s Zumba Monday! See you tonight at 6:30 p.m. We are located at 10958 S. Halsted St. Bring a friend, coworker, or family member to be your workout buddy while you party your way into shape.',0,2
+'Angela Ahrendts, Burberry CEO, Is First Woman To Become The Highest-Paid Executive In Britain',1,3
+'Newly released food insecurity data shows 860,670 people in Cook County are unsure where their next meal will come from.',0,3
+'What are you doing to stop the violence! It\'s happening all over this country...make your voices heard!',0,1
+'Do you want your legislators to know about- and experience- the potential for healthy, tasty food in school lunch?  Invite them to try the best of students\' culinary creations- taking place tomorrow- from Healthy Schools Campaign\'s Cooking Up Change competition!         From The Lunch Tray:',0,1
+'Not too late to fundraise for, or to sign up to participate in the Hunger Walk, Saturday June 29th at 8:30! Your participation can help us to provide food for our Tuesday Night neighbors for a whole year. Feeding 300+ people every week has never been easier!Click the link for registration forms, our fundraising page, and other information! Can\'t wait to see you there.',0,2
+'Socialize, sip and mingle at the Lynn Sage Cancer Research Foundation’s 4th Annual Summer Cocktail Party at Studio Paris! This spectacular event will be held on July 11th from 6:30PM to 9:30PM.Tickets are $75 in advance and $80 at the door. Order yours today:',1,2
+'The press conference to release Feeding America\'s Map the Meal Gap research study started with this video about Mary & her family who are struggling with hunger but are being helped by the San Antonio Food Bank.',1,3
+'Voting is officially OPEN for the Carry the Torch at AAU Volleyball Nationals video Contest! Make sure ALL of your friends go in and vote for the best cheer video! Voting Closes FRIDAY! CLICK HERE to vote!--->  YOU choose the winner, make YOUR voice heard!LIKE if you think all of our teams did an awesome job!',1,1
+Neato!,0,3
+'I believe in the Chicago Lawyers\' Committee because the importance of actively ensuring that full legal protections are afforded to all communities cannot be overstated. - Adira Levine, CLC Intern',0,2
+'Should be a great show tonight.  Glen Hansard with members of his band The Frames and Lisa Hannigan. Show starts at 6:30pm and goes for 3 hours.',0,2
+'Night of Champions 2013 at Carnivale is just 3 days away!',1,2
+'Please help spread the word about our upcoming Golf Tournament in July.  Share this post and/or join the page!Thanks!',0,2
+'It\'s beginning to look a lot like Bike Week! Just a smattering of the many bikes at our building today.',0,2
+'On Friday, June 7, Catholic Charities\' St. Vincent Hall was transformed into a gallery show for photographers in our After Supper Visions program that gives disposable cameras to supper guests to capture their point of view on film. Sales of their prints provide needed income to the artists, as well as recognition of their skills and talents. For more information and to purchase prints  or notecards online, please visit:  www.aftersuppervisions.com',0,2
+'Book\'s co-author talks about transgender former Navy SEAL',1,3
+'ROTY updates posted!',0,3
+'Join PAWS Chicago and 101.9 THE MIX Chicago tomorrow, June 11, at Subaru of America, Inc.\'s ‘Love A Pet’ adoption event in North Aurora featuring homeless dogs who are in search of their forever homes. While there, you can spin the wheel for a chance to win some great prizes from The MIX. Also, when you test drive any Subaru, a $25 donation will be made to local pet shelters and rescues, including PAWS Chicago, up to $10,000. Be sure to say that your donation should be designated for PAWS Chicago! Lisa Allen from The MIX will be hosting the event so be sure to stop by for your chance to save a life. Click through the photos to see the adorable dogs who will be available for adoption at the event. Gerald Subaru North Aurora – 213 Hansen Blvd, North Aurora4 – 6pmFor more information, please visit the ‘Available Dogs’ page at www.pawschicago.org.',0,2
+'Hillary Clinton to headline Chicago House event',1,3
+'What a wonderful weekend. Thanks to Chicago Spirit Brigade and everyone who turned out to support Care for Real at Midsommerfest. Great to meet so many of you who help our cause!',0,4
+'Our first vacationers are setting out today! They\'ll spend the next few days having fun and making memories. What is your favorite vacation memory?',0,1
+'Take a look at a recent profile of Inspiration Corporation on WYCC\'s In the Loop. Hear from staff and volunteers and see the organization in action, all starting at 26:00 of this video clip. Thank you WYCC!',1,3
+'Help Hyde Park Neighborhood Club every time you shop:',1,1
+'Daily Inspiration:',0,1
+'On Saturday, June 8 at midnight, the starting flag dropped on the free Bike Commuter Challenge program, the best way to participate in Chicago Bike to Work Week. Have you signed up yet?The Challenge, held every year during Chicago Bike to Work …',0,3
+'In case you missed it yesterday, JASC leader Carolynn had a great Letter to the Editor published in the Sunday Chicago Sun-Times. Carolynn highlighted why retirement security should be strengthened, and that we need prosperity, NOT austerity!',0,3
+'National transgender professionals group launches',1,3
+'Service Unit 710\'s bridging ceremony was recently featured on Trib Local. They held a ceremony for 323 New Lenox Girl Scouts!How did you and your Girl Scouts celebrate bridging from one level to the next?',0,1
+'Wake Up & Turn Your Fresh On!G O O D M O R N I N G !',0,5
+'It was a beautiful day at Run Home Chicago! Thank you so much to everyone that came out to run with the LPCS Team. It is not too late to make a donation on behalf of the team or a runner, just enter their name in the memo field here:',1,1
+'Bad fallout after gay marriage fall -Sun-Times columnist Laura Washington  via @suntimes ...',1,3
+'Country life recalls iron supplements for lack of child resistant packaging.',0,3
+'What an awesome start to our festival season! CSB stars really sparkled and shined! If you missed seeing us at Midsommarfest or just cannot get enough of CSB, be sure to check out our next performance at Pridefest!!!',0,2
+'A weekend full of fun, challenge, bonding, and lots of learning.  Our interns this year pushed themselves through fear of water and heights.  Well done!',0,4
+'One week left to apply for the Goldie\'s Place Associate Board. Learn more & apply today!',1,3
+'Did you watch the Tony Awards last night? What\'d you think?Congratulations to the cast and crew of Kinky Boots and crews of all the shows nominated -- and a big kudos to the IATSE members who helped put the awards together!Ph: CBS News',0,3
+'As Always...Stay Safe!',0,3
+'Reminder:  it\'s tonight!  Annual OIPA Ice Cream Social, Monday, June 10, 6:30 PM.',0,2
+'Focus on what you want. Focus on what you love. Focus on what makes you smile. Focus on what makes you happy. All Things Positivity',0,1
+'Today the Legacy Project celebrates the life of Alexander III of Macedonia, better known as Alexander the Great – who, by age 30 he had created one of the largest empires in the ancient world and was undefeated in battle – who died in Babylon at age 32 of a mysterious illness on June 10, 323 B.C. just 8 months after the death of his lover, General Hephaestion.',1,3
+'Celebrate dads & grads with Heartland Alliance! www.heartlandalliance.org/gifts',0,1
+'“Whenever you are confronted with an opponent. Conquer him with love.�? ―Mahatma Gandhi',0,1
+'ReSolution Firehouse 3-way Meeting. Thurs at 6:30p at FGC. All are welcome and encouraged to come. More info at:',1,2
+'Hit the Links with Variety!',0,2
+'“The more you become aware of and respond to the needs of others, the richer your own life becomes.�? ―Mollie Marti',0,1
+'Questions from the latest Standards Q&A column are now posted. Learn about off-site health records storage, standards documentation and more.',0,3
+'Today the Legacy Project salutes the life and talents of film  director Rainer Werner Fassbinder (The Marriage of Maria Braun, Querelle, Veronica Voss, Lola, Lili Marleen) - the prolific “enfant terrible�? of 1970s film whose awards include Germany’s Golden Bear and is considered most representative of the New German Cinema - died on june 10, 1982 at age 37 of a myocardial infarction in Munich, Germany.',1,3
+'Today the Legacy Project celebrates the life and contribution of poet, journalist, and playwright Angelina Weld Grimke - part of the Harlem Renaissance - who died on June 10, 1958 in New York City.',1,3
+'Today the Legacy Project celebrates the life and accomplishments of German/Hungarian lesbian writer Christa Winsloe who was shot to death on May 10, 1944 near Cluny, France.',1,3
+'Pull into one of our Bike Pit Stops today featuring Clif Bar and Dark Matter Coffee at Village Cycle Center in Old Town and the Roosevelt Collection lofts in South Loop!  Plus many more events going on this first weekday of Bike to Work Week! Check out the full schedule here!',1,2
+'It\'s Chicago Bike Week!  Free spin classes at Cloud Gate today through Wednesday at 6:30am and 7:30am!  Come on down!',0,2
+'Chris Fossick, Suphin Mechuchep and Todd Lauchlan outside the MICC in Nay Pyi Taw, after a very busy few days. You can read the final blogs now on \'Notes from Myanmar\'',1,3
+'Thankyou CAFC for a great Scrimmage this past Saturday at Warren Park. Next Saturday, we\'ll do the same.',0,4
+'U10G pose after their great comeback win over Euro 6-5!!!!',0,2
+'Defense wins the BIG games!',0,3
+'Congrats to Billy Porter on his Tony Award. See our Windy City Times interview with him from when the show was in Chicago: Kinky Boots star Billy Porter talks Whitney, reality TV',1,3
+'Join us TOMORROW MORNING to help us end gun violence in Champaign, Illinois:Champaign County Community Members will stand together to assist in ending the gun violence NOW!If you are available, we are asking you to stand as Champaign County Community Members to CEASE FIRE NOW! No more bloodshed NOW! on Monday, June 10, 2013 at 10:30am in the Champaign City Council Chambers, 102 N. Neil St., Champaign. We want to stop any further bloodshed and will exhaust every available option to achieve this goal. AGAIN: Tomorrow, Monday, June 10 at 10:30am – there will be a press conference in the Champaign City Council Chambers and we need you to stand with other Champaign County Community Members so that no one else is injured, no one dies.Please share with others with others!---Nicole',0,2
+'If your friend has been hospitalized for a mood disorder, offering to help with daily chores, child and pet care, and other daily tasks is a great way to help!',0,3
+'Oh yes. 5am and still rocking out at the Romanian Jeff awards',0,3
+'Join me in Prayer EVERY NIGHT at 9pm until June 14th, via conference call Dial 218-339-2626 code 966408!',0,2
+'Tomorrow night, enjoy two hours of free music in Millennium Park with Glen Hansard, bandmates from The Frames and Lisa Hannigan.  Music starts at 6:30pm at the Pritzker Pavilion.',0,2
+'Tomorrow! Feeding America will release the new Map the Meal Gap which will break down these numbers to the county level! Check back after noon!',1,2
+'You can drop items off at New Beginnings Church right now to donate to Oklahoma victims. 66th & King. Water, non-perishable food, etc',0,1
+'A video promo for gay writer David Rakoff\'s Final Book. Rakoff, an essayist popular on This American Life, died last year:  via @youtube',1,3
+'Run Home Chicago Marathon w/Dr. Ian Smith',0,3
+'Run Home Chicago Marathon w/Steve Harvey',0,3
+'Avondale in Our Urban Times!',0,3
+'Good day,Please help send 55 youths to Medieval Times Dinner and Tournament free of charge. No donation is too small or large. We hope that we can count on you for your support!',0,1
+'Make sure you pick up a copy of the Chicago Sun-Times today -- JASC leader Carolynn has a Letter to the Editor published!  Carolynn wrote about the need to protect and strengthen programs like Social Security, Medicare, and Medicaid, b/c we need prosperity, NOT austerity!',0,1
+'Heat or Spurs?',0,1
+'During his 22 years on the nation\'s highest court, Thomas has been called a self-loathing \'Uncle Thomas.\' His impact, though, cannot be ignored. His judicial opinions have transformed America. And no other contemporary Supreme Court justice has spoken with such raw emotion about race or has embodied the subject\'s complexities.',0,3
+'Need help with the Elevator Pitch Plus Contest | Snipitch',1,1
+'It\'s 7 days left until Father\'s Day. Please check in all week for great ideas for presents and fun facts about Dads.',0,1
+'Feeling overwhelmed?  Just BREATHE!',1,3
+'CCS is proud to be a member of NVCN!  Check out their latest news.... NVCN September News',1,2
+'I posted a new photo to Facebook',1,3
+...,1,3
+'Announcing the 2013 Winning T-Shirt Design #constantcontact',1,4
+'Feeling overwhelmed? Just BREATHE.',1,1
+'So why not start today!',1,1
+'Looking forward to a month\'s worth of The People\'s Cook in Chicago - #urbanfood ',1,2
+'Buy your Booklets!  #exclusivecouponsavings',1,1
+'Join our #CircleofFriends and help support our mission of helping #seniors in #Chicago!   #thankyou',1,1
+'@vacareers We\'ll have job resources for #veterans and #military in #Chi Sept 28 here: . Pls share!',1,2
+'Join us this Friday afternoon for golf, dinner, and great company! Register for our Golf Outing Event by...',1,2
+'RT @MaribelLafuente: Here we have #Zero #Tolerance for #ViolenceAgainstWomen &amp; #ChildAbuse. Join us and Share/RT! &lt;3',1,1
+'Sending thoughts and prayers 4 everyone affected by the #NavyYardShooting',0,3
+'Just in time for the upcoming holidays, ZOE introduces Gifts that Help. These gifts go further than a shelf or...',1,1
+'Join us this Friday for a fun Golf Outing! To register or more info, visit our EVENTS page at !',1,2
+'What?! Only 3 days left to sign up to preregister for @AIDSRunWalkChgo already have plans...make a donation',1,1
+'RT @AIDSRunWalkChgo: The Final Countdown! 3 days left to register for @AIDSRUNWALKCHICAGO: ',1,2
+'RT @nprnews: Homeless Man With \'Great Heart\' Finds $42,000, Turns It In',1,3
+'@McCormick_Fdn We\'d love a chance to meet and hear your thoughts. More on our vets project @',1,2
+'Pilot Light Chefs Block Party - Support a good cause and eat delicious food...   #deliciousdonations',1,2
+'Dr. Magary teaching on prayer. Full house tonight!',1,2
+'Did you know that Chicago is a leader in creative ideas?',1,3
+'Check out these new luxury rental units in the City that just got listed!  Contact Mary Ann Grannis at...',1,2
+'We\'re watching #Ethiopian-Canadian artist @thewknd perform on Jimmy Kimmel!',0,3
+'Weekender is here! Dr. Magary from Trinity Evangelical Divinity School is going to speak on Prayer is not for...',1,2
+'A Better Chicago is excited to announce new investments in two outstanding organizations - KIPP Chicago Schools...',1,3
+'Next FRIDAY is our GOLF OUTING EVENT! Support us on the EVENTS page of our website:',1,2
+'Thank you for participating in Race Judicata 2013 #constantcontact',1,4
+'Doesn\'t this weather just put you in the mood for Fall Weekend?   If you applied, be sure to check your email for your acceptance packet.',0,2
+'We are proud to be a Top 100 Finalist in the @Chi_Innovation People\'s Choice Award! Vote for us to show your support!',1,1
+'THIS IS NEXT WEEK! Join us for a wonderful afternoon of golf dinner and great company in the spirit of helping...',1,2
+'Our weekender starts tonight, 6-930 at Pratt &amp; Sheridan. Dr. Dennis Magary, from @TEDS, on prayer. Continues tomorrow, 8-11am. Open to all!',0,2
+'@VeteranAdvocacy Pls retweet! #Vets &amp; #Mil families: Learn about resources &amp; celebrate familyon Sat 28 Sept in #Chi',1,2
+'@911_Veterans Love what u do 2 support vets. If u get Chicagoland calls, pls let them know we do free counseling.',1,3
+'RT @ILVetsAffairs: Veterans served our nation. Now it’s our turn to serve them. Show your support for #Veterans in need—connect them... htt…',0,1
+'Ladies! The Limited would like to know, what inspires you or a success story you would like to share. Log on and...',1,1
+'@MilitaryTimes Pls retweet! #Vets &amp; #Mil families: Learn about resources &amp; celebrate family on Sat 28 Sept in #Chi',1,2
+'@McCormick_Fdn We\'ve been working in Austin &amp; Palatine around this. Found most vets don\'t self identify. We\'d love 2 hear others\' strategies',0,1
+'Wednesday was Enqutatash or Ethiopian New Year! Did you know that it\'s now 2006 in Ethiopia? #TheMoreYouKnow',0,3
+'RT @troyzunigajr: I support #StopChildAbuse Abuse change ur life, fight back &amp; change the life of ur abusers by breaking ur silence on abus…',0,1
+'We love receiving these emails! I cannot find a better word than just Thank You.  My visit to your office...',1,4
+'Pre-registration deadline 1 WEEK away! Weds 9/18 is last day to take advantage of the price $30 to walk, $40 to run.',1,2
+Remembering...,1,1
+'Harun Thuranira,18, from Precious Kithare Working group in his kiosk.Through ZOE,Harun was trained on business...',1,3
+'#alwaysremember 9-11 🇺🇸',1,1
+'Join Apna Ghar at the Chicago South Asian Film Festival #constantcontact',1,2
+'Working to help #vets families on a day we\'ll #NeverForget  #september11',1,2
+'Way to go AIDS RunWalk Team! We have raised $1,500 online! To help us reach our goal of $10,000 make a donation here .',1,1
+'Special Thanks to Wet n Wild for their generous donation to our professional women! Give your appearance the...',1,4
+'Record-breaking heat predicted in Chicago today — Keep cool and hydrated!',1,3
+'RT @ODMP: #officerdown  Trooper Paul Butterfield was shot and killed while making a traffic stop on Cust...  #lawenfo…',1,3
+'From 562 nominees to 100! A Better Chicago is proud to be selected as a finalist for the Chicago Innovation...',1,3
+'Don\'t forget to join us for our 4TH ANNUAL GOLF OUTING on SEPTEMBER 20TH! Contact Gerson Platero at...',1,2
+'It\'s Time to Vote! #constantcontact',1,1
+'To join us for our 4th ANNUAL GOLF OUTING on Friday, September 20th, contact Gerson at gplatero74@yahoo.com!',1,2
+'The Hales Property Management, Inc. hockey team wins the North Ave. Beach tournament in an 8 person overtime...',1,3
+'Go Bears! As you head out to celebrate today\'s win, keep an eye out for a rock star marketing professional that...',1,3
+'RT @Be_Juled_: Welcome to the greenhouse! #UrbanFood #Loyola',1,2
+'Hey friends- we\'re grilling out to welcome back college students tomorrow (Sunday, Sept. 8), at 1pm at North Shore...',1,2
+'RT @GreenChicago: Great panel on local environmental solutions w/@ilenviro @EduAgriTech &amp; @FamilyFarmed @SustainLoyola/@LoyolaChicago\'s #Ur…',0,4
+'Abandoned by their mother when their father died in 2009, Lizunzo and Sembekeza Phiri 16 and 14 year old brothers...',1,3
+'RT @bbclovefootball: We have nine of the 10 teams for the African World Cup play offs Algeria, Ivory Coast, Egypt, Cape Verde, B Faso, Nige…',0,3
+'RT @bobdolgan: SNAP is the great multiplier - it supports businesses and people. Angela Odoms Young UIC #urbanfood',0,3
+'Love Saturdays! What are you wearing tonight?',1,1
+'RT @SustainLoyola: Many thanks to our partners @NatureMuseum &amp; @SoloCordBuenz as well as keynote @bartonseaver &amp; panelists on a successful …',0,4
+'@SustainLoyola @NatureMuseum @SoloCordBuenz @bartonseaver Thank you @LoyolaChicago #urbanfood #eatchicago',1,4
+'Congratulations to the Ethiopian #Walyas soccer team for beating Central Africa Republic 2-1 in the 2014 World Cup Qualifiers this morning!',0,4
+'RT @SeedingChicago: Kate Maehr: There is not a world in which food banks can make up for govt cuts in food program. #urbanfood',0,3
+'RT @FamilyFarmed: Tomorrow!! #UrbanFood Symposium lineup - @bartonseaver @EduAgriTech @FamilyFarmed @UrbanPonics @StreetWise_CHI @plantchic…',0,2
+'Get all dressed up with somewhere to go!  #soiree',1,2
+'Race Judicata 2013 - Important Team Information #constantcontact',1,2
+'Less than one week until Race Judicata 2013 #constantcontact',1,2
+'Faith Karemu\'s smile say it all. Through ZOE, she learned to farm and has used her family\'s land in Kenya to grow...',1,3
+'Love someone difficult today.',0,1
+'Fall Classes Begin Saturday-New Trampoline Class Being Offered #constantcontact',1,2
+'RT @onramps: Venture philanthropy fund @_ABetterChicago is looking for someone to lead marketing &amp; branding!',1,1
+'Check out some rooftop bars before the summer ends...',1,3
+'Attention! We are in great need of size 10 shoes. Please contact us if you are willing to part with your lovelies...',1,1
+'What are you doing on September 20? #constantcontact',1,2
+'Thank you to #runnersedge for sponsoring our race this year! We are blessed by our supporters',0,4
+'Worrying about child birth?  Addressing your fears, researching your birthing options and building a support...',1,3
+'Do you get a hug a day at your job? We do! Thank you ladies for giving us a reason to smile each day on the job....',1,4
+'Daily repentance God 4give me if I thought wrong spoke wrong looked wrong or did anything that is unseemly n your sight #howtostaydelievered',0,1
+'Local college students: we\'ve got a cookout for you this Sunday, Sept. 8, 1pm at North Shore Beach. Free, come as you are!',0,2
+'I posted a new photo to Facebook',1,3
+'I posted a new photo to Facebook',1,3
+'Hales Property Management - Summer 2013 Newsletter #constantcontact',1,3
+'RT @First_Focus: Census: Households With Children with an Unemployed Parent Increased 33\% from 2005 to 2011 | The Weekly Standard ��',1,3
+'Thanks to The Limited, our ladies received superstar treatment at yesterday photo shoot! We can\'t wait for the big...',1,4
+'You should like this amazing organization! =)',1,2
+'Have you liked our FB page yet? Click the LIKE button now at ',1,1
+'CENTRO ROMERO HAS 999 LIKES! Lets make a great start to everyone\'s weekend and help Centro Romero MAKE IT TO...',1,1
+'RT @mbkov: @footnoted you guys are coming to this year\'s @InvestForKids right? Hope so! 5th annual IFK is 10/29.',0,2
+'The love of God is a strong, boundless, extravagant river; in Christ all have been invited to drown and so live.',0,1
+'Congrats! RT @TheWildHareLLC wins live music battle  … via @suntimes',1,4
+'RT @GoodFoodFestChi: #UrbanFood Symposium lineup! @bartonseaver @EduAgriTech @FamilyFarmed @UrbanPonics @StreetWise_CHI @plantchicago @Food…',0,3
+'We have a big day today! The Limited makes-over a few of our ladies for an upcoming anniversary celebration and we...',1,4
+'What did (do) you miss eating or drinking most during pregnancy?',1,1
+'With our donors help, we raised more than $18K at the annual picnic! Want to help too? ',1,1
+'More info on our going green initiative...',1,3
+'Hey, nonprofits! Don\'t miss out on the opportunity to apply for the second annual Make It Better Philanthropy...',1,2
+'Counting down to baby? Not sure what to expect and how to prepare? Sign-up to receive a weekly newsletter that...',1,1
+'Church on Sunday was awesome see you Tuesday for Bible Study Greater',1,2
+'I posted 24 photos on Facebook in the album Annual Event',1,3
+'If you want to make a donation to FutureSuperstars please go to  and either buy a shirt or dollar(s) donation #bblife',1,1
+'Keith Hales of Hales Property Management, Inc. talks about understanding your condominium insurance bill in an...',1,3
+'BFTF Golf Outing non-golfer Wine Tasting',1,2
+'And after a long day giving out bikes, one of my young  biking buddies practices his photography chops.  He\'s 15...',1,3
+'Personal Shoppers available to help you shop till you drop. Join us today, LAST DAY, Inventory Reduction sale....',1,2
+'We\'re in Michigan this weekend at the annual ECAC Staff &amp; Board Retreat!',1,3
+'TODAY\'S THE BIG DAY! JOIN US FOR THE 2ND INVENTORY REDUCTION SALE -- Open to Clients, Referral Partners Friday...',1,2
+'Welcome Our New Executive Director Neha Gill #constantcontact',1,4
+'#RogersPark homicides down 71\%, biggest drop in #Chicago',1,3
